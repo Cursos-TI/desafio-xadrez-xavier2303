@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-#include <stdio.h>
-
 // ================= TORRE =================
 void moverTorre(int casas){
     if(casas > 0){
